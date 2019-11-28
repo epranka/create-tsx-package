@@ -1,8 +1,13 @@
 <h1 align="center" style="border-bottom: none;">⚒️ @epranka/create-tsx-package</h1>
 
+<h3 align="center">[DEPRECATED. See below]</h3>
+
 <h3 align="center">Starter kit for React Typescript module</h3>
 
 <p align="center">
+  <a href="">
+    <img alt="deprecated" src="https://img.shields.io/badge/!-Deprecated-critical" />
+  </a>
         <a href="./LICENSE">
     <img alt="license" src="https://img.shields.io/badge/license-ISC-blue.svg" />
   </a>
@@ -18,6 +23,12 @@
       <img alt="semantic release" src="https://img.shields.io/badge/%E2%9C%A8-semantic--release-e10079" />
     </a> 
 </p>
+
+## DEPRECATION
+
+This module supports only TSX package and may have issues. Please use [@epranka/create-package](https://github.com/epranka/create-package) because this module will no longer be maintained.
+
+[@epranka/create-package](https://github.com/epranka/create-package) is clone of this module, but with JS, JSX, TS, TSX support and many improvements.
 
 ## Features
 
