@@ -1,3 +1,10 @@
+## [3.7.1](https://github.com/epranka/create-tsx-package/compare/v3.7.0...v3.7.1) (2019-11-28)
+
+
+### Bug Fixes
+
+* fixed bug when creating package without git ([927ee34](https://github.com/epranka/create-tsx-package/commit/927ee3478fab03b817ee9686293ac9477bc53a9b)), closes [#31](https://github.com/epranka/create-tsx-package/issues/31)
+
 # [3.7.0](https://github.com/epranka/create-tsx-package/compare/v3.6.7...v3.7.0) (2019-11-27)
 
 
